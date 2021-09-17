@@ -15,5 +15,5 @@ $ dotnet build
 2- Run Project 
 
 
-## Fronend
-[Fronend](https://github.com/mj300/GCUK_todo_Frontend)
+## Frontend
+[Frontend](https://github.com/mj300/GCUK_todo_Frontend)
