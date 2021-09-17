@@ -1,0 +1,14 @@
+{
+  "ExcludedRoutesFromCORS": [
+    "/favicon.ico",
+    "/Infinity.svg"
+  ],
+  "OpenCors": [
+    "https://localhost:8000",
+    "https://localhost:44307"
+  ],
+  "DbConnectionString": "Data Source=.;Initial Catalog=DATABASENAME;Persist Security Info=True;User ID=USERNAME;Password=PASSWORD",
+  "Secret": "asdv234234^&%&^%&^hjsdfb2%%%safsafsaf",
+  "SaltKey": "Mm@123321Mm"
+
+}
